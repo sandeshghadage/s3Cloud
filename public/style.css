@@ -402,7 +402,7 @@ div#preloader {
 }
 .main-menu ul.nav > li> a.pages::after {
     color: #444;
-    content: "\e64b";
+    /* content: "\e64b"; */
     font-family: themify;
     font-size: 12px;
     position: absolute;
@@ -1139,6 +1139,7 @@ div#preloader {
 .project-dec {
     display: block;
     padding-top: 20px;
+    height: 230px;
 }
 .project-dec h4 {
     color: #2a354e;
@@ -2046,7 +2047,7 @@ div#preloader {
     background: transparent;
 }
 .page-area {
-    background: url(img/background/bread.jpg);
+    background: url(img/background/SalesForce-Integration.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
